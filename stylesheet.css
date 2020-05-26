@@ -1,0 +1,6 @@
+colorpicker {
+    -fx-color-label-visible: false ;
+    -fx-background-color: lightgrey ;
+    -fx-border-color: darkgrey ;
+    -fx-min-height: 30px ;
+}
