@@ -14,3 +14,4 @@ What's next:
   - Possibility of pencil-writing at the edge of columns and rows.
 - Show number suggestions for beginners.
 - And basically anything else that anyone else can think of that could be relatively easy to implement and will improve user experience.
+- **AND A LOT OF REFACTORING**
